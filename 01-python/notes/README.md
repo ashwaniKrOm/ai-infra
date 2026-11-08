@@ -1,1 +1,0 @@
-python fundamental notes
